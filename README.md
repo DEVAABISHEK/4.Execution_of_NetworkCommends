@@ -27,6 +27,13 @@ This commands includes
 <BR>
 
 ## Output
+![10](https://github.com/DEVAABISHEK/4.Execution_of_NetworkCommends/assets/150319305/b5c8dec7-50fb-4409-a58b-3bd652981e6c)
+![20](https://github.com/DEVAABISHEK/4.Execution_of_NetworkCommends/assets/150319305/8d34a0c4-3145-4e71-922f-5c74429a3e24)
+![30](https://github.com/DEVAABISHEK/4.Execution_of_NetworkCommends/assets/150319305/bf5d0ec5-f4ea-4f6e-886e-910274c19542)
+![Uploading 40.png…]()
+![Uploading 50.png…]()
+![Uploading 60.png…]()
+
 
 ## Result
 Thus Execution of Network commands Performed 
